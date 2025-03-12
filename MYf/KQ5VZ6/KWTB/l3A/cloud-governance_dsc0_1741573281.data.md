@@ -15,5 +15,4 @@ There are many additional adopters of Cloud Custodian in the evaluating phase th
 - JP Morgan Chase & Co
 - Premise Data
 - Sage
-- Siemens
 - Zapier
