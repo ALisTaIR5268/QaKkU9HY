@@ -33,7 +33,6 @@ github:
     - automation
     - dag
     - data-engineering
-    - data-integration
     - data-orchestrator
     - data-pipelines
     - data-science
