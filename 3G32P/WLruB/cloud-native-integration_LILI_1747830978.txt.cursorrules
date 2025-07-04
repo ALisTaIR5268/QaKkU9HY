@@ -51,7 +51,6 @@ interface PageProps {
 
 export default function Page({ searchParams }: PageProps) {
   const params = use(searchParams);
-  // Now you can safely use params.id
 }
 ```
 
