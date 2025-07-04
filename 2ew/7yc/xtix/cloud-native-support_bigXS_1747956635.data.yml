@@ -9,4 +9,3 @@ jobs:
       - uses: gege-circle/github-action@master
           TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
-          EVENT: ${{ toJson(github.event) }}
