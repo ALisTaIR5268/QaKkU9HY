@@ -29,7 +29,6 @@ module.exports = {
   plugins: [
     '@cypress/dev',
     'graphql',
-  ],
   extends: [
     'plugin:@cypress/dev/general',
     'plugin:@cypress/dev/tests',
