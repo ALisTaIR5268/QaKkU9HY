@@ -27,7 +27,6 @@ cd <this-project-name>
 ```css
 git checkout -b <your_branch_name>
 ```
-
 6. Make changes.
 
 ```css
