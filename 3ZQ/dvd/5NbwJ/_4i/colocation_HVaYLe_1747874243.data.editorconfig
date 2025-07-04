@@ -521,7 +521,6 @@ csharp_continuous_indent_multiplier = 1
 csharp_alignment_tab_fill_style = use_tabs_only
 csharp_allow_far_alignment = false
 csharp_wrap_after_invocation_lpar = true
-csharp_wrap_before_ternary_opsigns = false
 place_linq_into_on_new_line = false
 wrap_after_dot_in_method_calls = true
 wrap_before_binary_pattern_op = false
