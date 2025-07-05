@@ -51,7 +51,6 @@
 + util/flagext
 + util/grpcclient
 + util/grpcencoding
-+ util/grpcencoding/snappy
 + util/grpcutil
 + util/httpgrpcutil
 + util/limiter
