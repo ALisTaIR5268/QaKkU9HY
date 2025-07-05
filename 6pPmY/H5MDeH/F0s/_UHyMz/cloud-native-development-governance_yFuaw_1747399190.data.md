@@ -7,7 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Problem with pip and cryptography and updated packages' versions
 
 ## [5.7.4] - 2020-04
-### Added
 - Enable multi-line option for append load
   
 ## [5.7.3] - 2021-02
