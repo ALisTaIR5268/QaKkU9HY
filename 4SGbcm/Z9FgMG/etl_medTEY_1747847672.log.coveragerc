@@ -1,4 +1,3 @@
 [run]
 omit =
     unstructured/ingest/*
-    # TODO(yuming): please remove this line after adding tests for paddle
