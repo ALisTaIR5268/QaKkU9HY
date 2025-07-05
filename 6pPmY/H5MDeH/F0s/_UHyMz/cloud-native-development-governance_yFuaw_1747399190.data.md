@@ -13,7 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Make init condensation optional, but true by default.
   
-## [5.7.2] - 2020-02
 ### Added
 - Modify append load to support more complex partitioning strategies without file_regex
 - Added support for configuring write load mode and num output files in append load
