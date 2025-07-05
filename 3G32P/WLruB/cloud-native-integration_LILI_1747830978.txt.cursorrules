@@ -301,7 +301,6 @@ Vercel AI SDK documentation and OpenAI/Anthropic API guidelines for best practic
 
 ## ✅ Testing & Validation
 
-1.  **Test-Driven Development (TDD):**
     - **New Features:** Outline tests, write failing tests, implement code, refactor.
     - **Bug Fixes:** Write a test reproducing the bug _before_ fixing it.
 2.  **Comprehensive Tests:** Write thorough unit, integration, and/or end-to-end tests covering critical paths, edge cases, and major functionality.
