@@ -21,7 +21,6 @@ git clone https://github.com/<your-github-username>/<this-project-name>.git
 ```py
 cd <this-project-name>
 ```
-
 5. Create a new branch.
 
 ```css
