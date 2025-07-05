@@ -48,7 +48,6 @@ module.exports = {
         // ignore in tests and scripts
         '**/scripts/**',
         '**/test/**',
-        '**/system-tests/**',
         'tooling/**',
         'packages/{app,driver,frontend-shared,launchpad}/cypress/**',
         '*.test.ts',
