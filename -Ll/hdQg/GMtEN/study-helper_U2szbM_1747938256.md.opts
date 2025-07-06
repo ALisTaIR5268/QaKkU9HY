@@ -1,2 +1,1 @@
---bail
 --require ts-node/register
