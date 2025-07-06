@@ -48,7 +48,6 @@ interface PageProps {
     id?: string;
   }>;
 }
-
 export default function Page({ searchParams }: PageProps) {
   const params = use(searchParams);
 }
