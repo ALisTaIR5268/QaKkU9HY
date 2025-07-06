@@ -50,7 +50,6 @@ module.exports = {
         '**/test/**',
         'tooling/**',
         'packages/{app,driver,frontend-shared,launchpad}/cypress/**',
-        '*.test.ts',
       ],
       rules: {
         'no-restricted-properties': 'off',
