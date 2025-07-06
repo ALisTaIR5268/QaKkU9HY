@@ -29,7 +29,6 @@
 + querier.test
 - querier/*
 + ring
-+ ring/*.go
 + ring/client
 + ring/kv
 + ring/shard
