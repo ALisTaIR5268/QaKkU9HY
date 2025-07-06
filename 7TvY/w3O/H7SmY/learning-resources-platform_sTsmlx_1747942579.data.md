@@ -63,7 +63,6 @@ The project is licensed under ***MIT***. Make sure to review and comply with the
 
 ### :zap: Need more help?🤔
 
-You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
