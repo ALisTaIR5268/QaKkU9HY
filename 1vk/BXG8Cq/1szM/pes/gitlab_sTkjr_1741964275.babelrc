@@ -1,7 +1,6 @@
 {
   "presets": [
   ],
-  "plugins": ["transform-runtime"],
   "comments": false,
   "env": {
 }
