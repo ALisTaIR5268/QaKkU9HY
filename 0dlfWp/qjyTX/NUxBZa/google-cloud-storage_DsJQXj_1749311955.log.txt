@@ -45,7 +45,6 @@
 + util
 + util/*.go
 + util/backoff
-+ util/chunkcompat
 + util/concurrency
 + util/extract
 + util/flagext
