@@ -35,7 +35,6 @@ export default async function Page({ searchParams }: PageProps) {
   // Now you can safely use params.id
 }
 ```
-
 Example for Client Components:
 
 ```typescript
