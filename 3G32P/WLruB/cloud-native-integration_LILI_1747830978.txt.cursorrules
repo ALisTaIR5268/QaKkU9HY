@@ -201,7 +201,6 @@ Data Fetching and State Management
 
 Styling
 
-- Use Tailwind CSS for styling, following the Utility First approach.
 - Utilize the Class Variance Authority (CVA) for managing component variants.
 
 Testing
