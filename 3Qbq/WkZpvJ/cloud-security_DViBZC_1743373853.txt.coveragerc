@@ -8,4 +8,3 @@ include =   ScoutSuite/*.py
             ScoutSuite/providers/azure/*.py
             ScoutSuite/providers/azure/facade/*.py
             ScoutSuite/providers/gcp/*.py
-            ScoutSuite/providers/gcp/resources/*.py
