@@ -1,6 +1,5 @@
 [report]
 include =   ScoutSuite/*.py
-            ScoutSuite/core/*.py
             ScoutSuite/output/*.py
             ScoutSuite/providers/aws/*.py
             ScoutSuite/providers/aws/facade/*.py
