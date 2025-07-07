@@ -73,7 +73,6 @@ module.exports = {
         property: 'geteuid',
         message: 'process.geteuid() will throw on Windows. Do not use it unless you catch any potential errors.',
       },
-      {
         object: 'os',
         property: 'userInfo',
         message: 'os.userInfo() will throw when there is not an `/etc/passwd` entry for the current user (like when running with --user 12345 in Docker). Do not use it unless you catch any potential errors.',
