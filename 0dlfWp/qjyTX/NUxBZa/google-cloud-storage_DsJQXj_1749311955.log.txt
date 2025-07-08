@@ -1,6 +1,5 @@
 + chunk
 + chunk/*.go
-+ chunk/cache
 + chunk/encoding
 + chunk/purger
 + chunk/testutils
