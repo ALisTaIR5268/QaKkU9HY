@@ -1,4 +1,3 @@
-[report]
 include =   ScoutSuite/*.py
             ScoutSuite/output/*.py
             ScoutSuite/providers/aws/*.py
