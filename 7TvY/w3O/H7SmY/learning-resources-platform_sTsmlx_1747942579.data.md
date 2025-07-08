@@ -12,7 +12,6 @@
 
 > ***WARNING***: **Avoid cloning with GitHub Desktop or GitKraken; it downloads all submodules, consuming excessive data.**
 
-```css
 git clone https://github.com/<your-github-username>/<this-project-name>.git
 ```
 
