@@ -32,7 +32,6 @@
 + ring/shard
 + ring/util
 - ring/*
-+ scheduler
 + storage
 + storage/bucket
 + storage/tsdb
