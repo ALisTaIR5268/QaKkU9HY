@@ -327,7 +327,6 @@ Vercel AI SDK documentation and OpenAI/Anthropic API guidelines for best practic
 2.  **Branching Strategy:** Follow the project's established branching strategy. Do not create new branches unless requested or necessary for the workflow (e.g., feature branches).
 3.  **.env Files:** **Never** commit `.env` files. Use `.env.example` for templates. Do not overwrite local `.env` files without confirmation.
 4.  **Environment Awareness:** Code should function correctly across different environments (dev, test, prod). Use environment variables for configuration.
-5.  **Server Management:** Kill related running servers before starting new ones. Restart servers after relevant configuration or backend changes.
 
 ## 📄 Documentation Maintenance
 
