@@ -22,7 +22,6 @@
 + querier/iterators
 + querier/lazyquery
 + querier/queryrange
-+ querier/series
 + querier/stats
 + querier/worker
 + querier.test
