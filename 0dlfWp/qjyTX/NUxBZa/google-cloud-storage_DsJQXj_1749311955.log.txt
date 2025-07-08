@@ -39,7 +39,6 @@
 + storage/tsdb
 - storage/*
 + storegateway
-+ tenant
 + util
 + util/*.go
 + util/backoff
