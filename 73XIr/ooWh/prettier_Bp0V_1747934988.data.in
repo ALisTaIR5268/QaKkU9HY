@@ -1,4 +1,3 @@
-prune **
 graft prettymaps
 
 include LICENSE
