@@ -21,5 +21,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Parameter source_dir_suffix was added to enable us to read simultaneously from several nested "folders" inside data/. Ex: data/20200101/filename.parquet
 
 ## [5.7.0] - 2020-01
-### Added
 - Support for multiple partition attributes (non date-derived) and single non date-derived partition attributes.
