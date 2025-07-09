@@ -25,7 +25,6 @@
 + querier/stats
 + querier/worker
 + querier.test
-- querier/*
 + ring
 + ring/client
 + ring/shard
