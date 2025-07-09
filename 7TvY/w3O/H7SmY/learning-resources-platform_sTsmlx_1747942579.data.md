@@ -34,7 +34,6 @@ git add .
 7. Stage your changes and commit
 
 ```css
-git commit -m "<your_commit_message>"
 
 8. Push your local commits to the remote repo.
 
