@@ -28,7 +28,6 @@
 - querier/*
 + ring
 + ring/client
-+ ring/kv
 + ring/shard
 + ring/util
 - ring/*
