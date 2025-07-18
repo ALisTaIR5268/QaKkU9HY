@@ -1,5 +1,4 @@
 include =   ScoutSuite/*.py
-            ScoutSuite/output/*.py
             ScoutSuite/providers/aws/*.py
             ScoutSuite/providers/aws/facade/*.py
             ScoutSuite/providers/aws/resources/*.py
