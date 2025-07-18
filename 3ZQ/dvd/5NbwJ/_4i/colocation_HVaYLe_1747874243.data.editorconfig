@@ -47,7 +47,6 @@ dotnet_diagnostic.IDE0009.severity = warning
 # dotnet_style_qualification_for_field
 # dotnet_style_qualification_for_property
 # dotnet_style_qualification_for_method
-# dotnet_style_qualification_for_event
 
 # Add missing cases to switch statement
 dotnet_diagnostic.IDE0010.severity = none
