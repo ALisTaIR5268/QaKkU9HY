@@ -1,3 +1,2 @@
 root = true
 [*.md]
-[*.{yml,yaml}]
