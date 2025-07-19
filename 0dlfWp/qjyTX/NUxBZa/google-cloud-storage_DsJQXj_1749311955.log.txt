@@ -39,7 +39,6 @@
 + util/*.go
 + util/backoff
 + util/concurrency
-+ util/extract
 + util/flagext
 + util/grpcclient
 + util/grpcencoding
