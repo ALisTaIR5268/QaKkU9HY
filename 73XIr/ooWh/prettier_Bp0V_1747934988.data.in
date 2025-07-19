@@ -1,4 +1,3 @@
 graft prettymaps
-
 include LICENSE
 include requirements.txt
