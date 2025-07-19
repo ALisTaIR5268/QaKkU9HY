@@ -52,7 +52,6 @@
 + util/runutil
 + util/services
 + util/spanlogger
-+ util/test
 + util/tls
 + util/validation
 - util/grpcencoding/*
