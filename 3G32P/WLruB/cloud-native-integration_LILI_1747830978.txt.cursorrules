@@ -249,7 +249,6 @@ Vercel AI SDK documentation and OpenAI/Anthropic API guidelines for best practic
     - Exhaust options using existing implementations before proposing new patterns or libraries.
 
 ## ⚙️ Task Execution & Workflow
-
 1.  **Task Definition:**
     - Clearly understand the task requirements, acceptance criteria, and any dependencies from `tasks/tasks.md` and the PRD.
 2.  **Systematic Change Protocol:** Before making significant changes:
