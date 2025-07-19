@@ -67,7 +67,6 @@ The project is licensed under ***MIT***. Make sure to review and comply with the
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-
 ### :zap: Note from Admin ❗
 
 - We welcome contributions from everyone. However, please avoid spamming the repository with irrelevant issues & pull requests. We reserve the right to mark PRs as invalid if they are not relevant.
