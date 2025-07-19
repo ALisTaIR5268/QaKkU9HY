@@ -202,7 +202,6 @@ dotnet_diagnostic.IDE0051.severity = none
 # Remove unread private member
 dotnet_diagnostic.IDE0052.severity = warning
 
-# Use expression body for lambdas
 dotnet_diagnostic.IDE0053.severity = warning
 # csharp_style_expression_bodied_lambdas
 
