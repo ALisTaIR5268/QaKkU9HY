@@ -103,7 +103,6 @@ Key Principles
 - Write concise, technical responses with accurate TypeScript examples.
 - Use functional, declarative programming. Avoid classes.
 - Prefer iteration and modularization over duplication.
-- Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
 - Use lowercase with dashes for directories (e.g., components/auth-wizard).
 - Favor named exports for components.
 - Use the Receive an Object, Return an Object (RORO) pattern.
