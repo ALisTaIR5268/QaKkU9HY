@@ -1,5 +1,4 @@
 jobs:
     runs-on: ubuntu-latest
     steps:
-      - uses: gege-circle/github-action@master
           TOKEN: ${{ github.token }}
