@@ -41,7 +41,6 @@ module.exports = {
     // Cloud generated
     'system-tests/lib/validations/**',
   ],
-  overrides: [
     {
       files: [
         // ignore in tests and scripts
