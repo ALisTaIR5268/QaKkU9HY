@@ -65,7 +65,6 @@ module.exports = {
     'prefer-spread': 'off',
     'prefer-rest-params': 'off',
     'no-useless-constructor': 'off',
-    'no-restricted-properties': [
       'error',
       {
         object: 'process',
