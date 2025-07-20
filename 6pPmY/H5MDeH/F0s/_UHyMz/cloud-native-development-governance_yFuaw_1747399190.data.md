@@ -17,5 +17,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [5.7.1] - 2020-01
 ### Added
 - Parameter source_dir_suffix was added to enable us to read simultaneously from several nested "folders" inside data/. Ex: data/20200101/filename.parquet
-
 - Support for multiple partition attributes (non date-derived) and single non date-derived partition attributes.
