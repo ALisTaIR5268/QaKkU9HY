@@ -1,6 +1,5 @@
 <h1 align="center">Contributors Guide⚡ </h1>
 <h3 align="center">Welcome to our open-source project! 😍<br> We appreciate your interest in contributing.😊 <br>This guide will help you get started with the project and make your first contribution.</h3>
-
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h1 align="center">Creating first Pull Request 🌟</h1>
