@@ -52,6 +52,5 @@
 + util/services
 + util/spanlogger
 + util/tls
-+ util/validation
 - util/grpcencoding/*
 - /*
