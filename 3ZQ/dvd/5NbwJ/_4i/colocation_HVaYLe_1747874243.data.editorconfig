@@ -162,7 +162,6 @@ dotnet_diagnostic.IDE0041.severity = warning
 # Deconstruct variable declaration
 dotnet_diagnostic.IDE0042.severity = warning
 
-# Add readonly modifier
 dotnet_diagnostic.IDE0044.severity = warning
 dotnet_style_readonly_field = false
 
