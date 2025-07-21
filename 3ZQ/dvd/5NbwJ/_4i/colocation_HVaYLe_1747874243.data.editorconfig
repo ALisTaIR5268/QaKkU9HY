@@ -364,7 +364,6 @@ dotnet_naming_symbols.non_private_static_fields.applicable_kinds = field
 dotnet_naming_symbols.non_private_static_fields.applicable_accessibilities = public, protected, internal, protected_internal, private_protected
 dotnet_naming_symbols.non_private_static_fields.required_modifiers = static
 
-dotnet_naming_style.non_private_static_field_style.capitalization = pascal_case
 
 
 # Constants are UPPER_CASE
