@@ -64,7 +64,6 @@ export default function Page({ searchParams }: PageProps) {
 - Always use Next.js Image component (<Image />) from 'next/image' instead of HTML <img> tag for better performance and optimization
 - TypeScript interfaces for handbook components are located in src/types/handbook.ts
 - Always add null checks for optional props in React components and provide fallback UI to prevent runtime errors
-- The project is already running on port 3000 - don't try to start it again
 
 # Project Structure
 
