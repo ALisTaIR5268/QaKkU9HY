@@ -37,7 +37,6 @@
 + storegateway
 + util
 + util/*.go
-+ util/backoff
 + util/concurrency
 + util/flagext
 + util/grpcclient
