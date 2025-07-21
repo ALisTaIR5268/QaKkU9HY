@@ -19,7 +19,6 @@
 + querier/astmapper
 + querier/batch
 + querier/chunkstore
-+ querier/iterators
 + querier/lazyquery
 + querier/queryrange
 + querier/stats
