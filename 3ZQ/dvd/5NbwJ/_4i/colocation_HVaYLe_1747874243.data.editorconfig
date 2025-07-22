@@ -524,7 +524,6 @@ dotnet_style_parentheses_in_arithmetic_binary_operators = never_if_unnecessary:s
 ###### Ignored folders
 
 [Assets/TextMesh Pro/**]
-generated_code = true
 
 [Assets/Oculus/**]
 generated_code = true
