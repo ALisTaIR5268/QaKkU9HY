@@ -44,7 +44,6 @@ git push -u origin <your_branch_name>
 
 
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ### :zap: Communication and Support 💬
 - Join the project's communication channels to interact with other contributors and seek assistance.
