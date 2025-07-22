@@ -267,7 +267,6 @@ Vercel AI SDK documentation and OpenAI/Anthropic API guidelines for best practic
 7.  **Incremental Interaction:** Break down complex tasks into smaller steps for the AI. Review and confirm each step before proceeding.
 8.  **Standard Check-in (for AI on large tasks):** Before providing significant code suggestions:
     - "Confirming understanding: I've reviewed [specific document/previous context]. The goal is [task goal], adhering to [key pattern/constraint]. Proceeding with [planned step]." (This replaces the more robotic "STOP AND VERIFY").
-## ✨ Code Quality & Style
 
 1.  **TypeScript Guidelines:** Use strict typing (avoid `any`). Document complex logic or public APIs with JSDoc.
 2.  **Readability & Maintainability:** Write clean, well-organized code.
