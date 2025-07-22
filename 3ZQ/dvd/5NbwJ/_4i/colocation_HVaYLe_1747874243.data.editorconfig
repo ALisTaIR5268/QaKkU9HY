@@ -351,7 +351,6 @@ dotnet_style_coalesce_expression = true:suggestion
 dotnet_style_null_propagation = true:suggestion
 dotnet_style_explicit_tuple_names = true:suggestion
 
-# Whitespace options
 dotnet_style_allow_multiple_blank_lines_experimental = false
 
 # Non-private static fields are PascalCase
