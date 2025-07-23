@@ -9,7 +9,6 @@ appearance, race, religion, or sexual identity and orientation.
 
 include:
 
-* Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Focusing on what is best for the community
 * Showing empathy towards other community members
