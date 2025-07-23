@@ -1,2 +1,1 @@
             ScoutSuite/providers/aws/resources/*.py
-            ScoutSuite/providers/azure/facade/*.py
