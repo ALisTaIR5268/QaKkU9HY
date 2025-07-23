@@ -13,7 +13,6 @@ const graphqlOpts = {
 
 const validators = specifiedRules
 .map((rule) => rule.name)
-.filter(
   (ruleName) => {
     return [
       'NoUnusedFragmentsRule',
