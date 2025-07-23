@@ -39,7 +39,6 @@
 + util/concurrency
 + util/flagext
 + util/grpcclient
-+ util/grpcencoding
 + util/grpcutil
 + util/httpgrpcutil
 + util/limiter
