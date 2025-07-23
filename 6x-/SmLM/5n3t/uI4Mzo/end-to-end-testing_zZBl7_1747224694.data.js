@@ -38,7 +38,6 @@ module.exports = {
     'npm/eslint-plugin-dev/test/fixtures/**',
     // Cloud generated
     'system-tests/lib/validations/**',
-  ],
     {
       files: [
         // ignore in tests and scripts
