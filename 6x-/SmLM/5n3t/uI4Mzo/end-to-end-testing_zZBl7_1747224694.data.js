@@ -64,7 +64,6 @@ module.exports = {
       {
         object: 'process',
         property: 'geteuid',
-        message: 'process.geteuid() will throw on Windows. Do not use it unless you catch any potential errors.',
       },
         object: 'os',
         property: 'userInfo',
