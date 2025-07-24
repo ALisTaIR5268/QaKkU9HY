@@ -18,7 +18,6 @@
 + querier/*.go
 + querier/astmapper
 + querier/batch
-+ querier/chunkstore
 + querier/lazyquery
 + querier/queryrange
 + querier/stats
