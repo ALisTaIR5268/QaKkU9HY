@@ -31,7 +31,6 @@ git add .
 ```
 
 7. Stage your changes and commit
-
 ```css
 
 8. Push your local commits to the remote repo.
