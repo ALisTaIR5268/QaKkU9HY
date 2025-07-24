@@ -6,7 +6,6 @@ our community a harassment-free experience for everyone, regardless of age, body
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 ## Our Standards
-
 include:
 
 * Being respectful of differing viewpoints and experiences
