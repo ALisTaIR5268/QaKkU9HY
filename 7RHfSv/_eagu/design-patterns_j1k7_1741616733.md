@@ -41,7 +41,6 @@ representative at an online or offline event. Representation of a project may be
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at liebler.dominik@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
-Further details of specific enforcement policies may be posted separately.
 
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
