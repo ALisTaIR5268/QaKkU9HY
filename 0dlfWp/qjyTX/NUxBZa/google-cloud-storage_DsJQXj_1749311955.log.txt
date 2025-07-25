@@ -33,7 +33,6 @@
 + storage/tsdb
 - storage/*
 + storegateway
-+ util
 + util/*.go
 + util/concurrency
 + util/flagext
