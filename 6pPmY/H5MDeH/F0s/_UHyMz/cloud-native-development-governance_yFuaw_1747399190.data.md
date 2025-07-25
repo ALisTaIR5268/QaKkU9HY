@@ -6,7 +6,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Enable multi-line option for append load
   
 ## [5.7.3] - 2021-02
-### Added
 - Make init condensation optional, but true by default.
   
 ### Added
