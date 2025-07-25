@@ -37,7 +37,6 @@ permanently any contributor for other behaviors that they deem inappropriate,
 representing a project or community include using an official project e-mail
 representative at an online or offline event. Representation of a project may be
 
-## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at liebler.dominik@gmail.com. All
