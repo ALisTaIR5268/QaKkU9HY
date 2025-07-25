@@ -35,7 +35,6 @@ git add .
 
 8. Push your local commits to the remote repo.
 
-```css
 git push -u origin <your_branch_name>
 ```
 
