@@ -256,7 +256,6 @@ Vercel AI SDK documentation and OpenAI/Anthropic API guidelines for best practic
     - Keep `docs/status.md` updated with task progress (in-progress, completed, blocked), issues encountered, and completed items.
     - Update `tasks/tasks.md` upon task completion or if requirements change during implementation.
 
-## 🤖 AI Collaboration & Prompting
 
 1.  **Clarity is Key:** Provide clear, specific, and unambiguous instructions to the AI. Define the desired outcome, constraints, and context.
 2.  **Context Referencing:** If a task spans multiple interactions, explicitly remind the AI of relevant previous context, decisions, or code snippets.
