@@ -8,7 +8,6 @@ const graphqlOpts = {
   schemaString: fs.readFileSync(
     'utf8',
   ),
-}
 
 const validators = specifiedRules
 .map((rule) => rule.name)
