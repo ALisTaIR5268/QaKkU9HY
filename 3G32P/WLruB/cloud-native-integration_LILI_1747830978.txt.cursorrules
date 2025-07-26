@@ -165,7 +165,6 @@ React/Next.js
 
 - Prefer server components and Next.js SSR features.
 - Use 'use client' only for Web API access in small components.
-- Avoid using 'use client' for data fetching or state management.
 
 4. Follow the monorepo structure:
 
