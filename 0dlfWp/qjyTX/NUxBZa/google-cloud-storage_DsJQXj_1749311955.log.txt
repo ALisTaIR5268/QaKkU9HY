@@ -23,7 +23,6 @@
 + querier/stats
 + querier/worker
 + querier.test
-+ ring
 + ring/client
 + ring/shard
 + ring/util
