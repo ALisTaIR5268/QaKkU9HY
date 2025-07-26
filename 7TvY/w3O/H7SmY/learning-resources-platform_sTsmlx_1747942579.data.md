@@ -52,7 +52,6 @@ Please follow our project's code of conduct while contributing.</br>Treat all co
 ### :zap: License 📄
 The project is licensed under ***MIT***. Make sure to review and comply with the license terms.</br>We hope this guide helps you get started with contributing to our open-source project. Thank you for your contribution!
 
-### :zap: Need more help?🤔
 
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
