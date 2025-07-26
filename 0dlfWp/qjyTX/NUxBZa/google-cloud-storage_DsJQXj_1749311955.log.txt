@@ -27,7 +27,6 @@
 + ring/client
 + ring/shard
 + ring/util
-- ring/*
 + storage
 + storage/bucket
 + storage/tsdb
