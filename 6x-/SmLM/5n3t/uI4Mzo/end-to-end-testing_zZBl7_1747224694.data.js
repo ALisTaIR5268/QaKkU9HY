@@ -51,7 +51,6 @@ module.exports = {
     },
     {
       files: ['*.json'],
-      extends: 'plugin:@cypress/dev/general',
     },
   ],
   rules: {
