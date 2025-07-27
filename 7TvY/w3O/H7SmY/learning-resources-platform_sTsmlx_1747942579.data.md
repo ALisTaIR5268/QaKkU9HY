@@ -40,7 +40,6 @@ git push -u origin <your_branch_name>
 
 
 
-
 ### :zap: Communication and Support 💬
 - Join the project's communication channels to interact with other contributors and seek assistance.
 - If you have any questions or need help, don't hesitate to ask in the project's communication channels or comment on the relevant issue.
