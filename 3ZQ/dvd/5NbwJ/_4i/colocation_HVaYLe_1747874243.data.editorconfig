@@ -308,7 +308,6 @@ dotnet_diagnostic.IDE0084.severity = warning
 
 # Simplify new expression
 dotnet_diagnostic.IDE0090.severity = warning
-csharp_style_implicit_object_creation_when_type_is_apparent = true
 
 # Remove unnecessary equality operator
 dotnet_diagnostic.IDE0100.severity = warning
