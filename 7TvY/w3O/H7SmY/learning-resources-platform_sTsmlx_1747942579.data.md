@@ -37,7 +37,6 @@ git add .
 git push -u origin <your_branch_name>
 ```
 
-9. Create a Pull Request.
 
 
 
