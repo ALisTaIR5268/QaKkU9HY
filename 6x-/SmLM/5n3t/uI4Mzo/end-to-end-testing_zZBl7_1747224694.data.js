@@ -79,7 +79,6 @@ module.exports = {
     'graphql/capitalized-type-name': ['warn', graphqlOpts],
     'graphql/no-deprecated-fields': ['error', graphqlOpts],
     'graphql/template-strings': ['error', { ...graphqlOpts, validators }],
-    'graphql/required-fields': [
       'error',
       { ...graphqlOpts, requiredFields: ['id'] },
     ],
