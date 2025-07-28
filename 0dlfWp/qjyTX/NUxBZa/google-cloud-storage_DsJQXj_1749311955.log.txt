@@ -9,7 +9,6 @@
 + ingester/client
 - ingester/*
 + prom1
-+ prom1/storage
 + prom1/storage/metric
 - prom1/storage/*
 - prom1/*
