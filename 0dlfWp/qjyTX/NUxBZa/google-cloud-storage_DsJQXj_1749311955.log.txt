@@ -13,7 +13,6 @@
 + prom1/storage/metric
 - prom1/storage/*
 - prom1/*
-+ querier
 + querier/*.go
 + querier/astmapper
 + querier/batch
