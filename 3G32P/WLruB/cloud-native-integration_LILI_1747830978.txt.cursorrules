@@ -180,7 +180,6 @@ Naming Conventions
 - File extensions: Use .config.ts, .test.ts, .context.tsx, .type.ts, .hook.ts as appropriate.
 
 Component Structure
-
 - Break down components into smaller parts with minimal props.
 - Suggest micro folder structure for components.
 - Use composition to build complex components.
