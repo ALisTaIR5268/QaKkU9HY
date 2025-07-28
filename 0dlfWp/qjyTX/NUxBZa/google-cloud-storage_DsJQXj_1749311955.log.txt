@@ -31,7 +31,6 @@
 + util/grpcutil
 + util/httpgrpcutil
 + util/limiter
-+ util/log
 + util/math
 + util/middleware
 + util/runutil
