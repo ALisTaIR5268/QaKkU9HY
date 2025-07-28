@@ -387,7 +387,6 @@ dotnet_naming_style.instance_field_style.required_prefix = m_
 # Instance public fields are PascalCase
 dotnet_naming_rule.instance_public_fields_should_be_pascal_case.severity = suggestion
 dotnet_naming_rule.instance_public_fields_should_be_pascal_case.symbols = instance_public_fields
-dotnet_naming_rule.instance_public_fields_should_be_pascal_case.style = instance_public_field_style
 
 dotnet_naming_symbols.instance_public_fields.applicable_kinds = field
 dotnet_naming_symbols.instance_public_fields.applicable_accessibilities = public
