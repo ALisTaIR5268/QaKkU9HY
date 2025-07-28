@@ -296,7 +296,6 @@ dotnet_diagnostic.IDE0080.severity = warning
 dotnet_diagnostic.IDE0081.severity = warning
 
 # Convert typeof to nameof
-dotnet_diagnostic.IDE0082.severity = warning
 
 # Use pattern matching (not operator)
 dotnet_diagnostic.IDE0083.severity = warning
