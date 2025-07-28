@@ -229,7 +229,6 @@ dotnet_diagnostic.IDE0060.severity = silent
 # dotnet_code_quality_unused_parameters
 
 # Use expression body for local functions
-dotnet_diagnostic.IDE0061.severity = warning
 # csharp_style_expression_bodied_local_functions
 
 # Make local function static
