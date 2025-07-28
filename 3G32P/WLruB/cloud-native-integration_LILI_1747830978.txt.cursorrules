@@ -149,7 +149,6 @@ React/Next.js
 - Minimize 'use client', 'useEffect', and 'setState'. Favor React Server Components (RSC).
 - Wrap client components in Suspense with fallback.
 - Use dynamic loading for non-critical components.
-- Optimize images: WebP format, size data, lazy loading.
 - Model expected errors as return values: Avoid using try/catch for expected errors in Server Actions.
 - Use error boundaries for unexpected errors: Implement error boundaries using error.tsx and global-error.tsx files.
 - Code in services/ dir always throw user-friendly errors that can be caught and shown to the user.
