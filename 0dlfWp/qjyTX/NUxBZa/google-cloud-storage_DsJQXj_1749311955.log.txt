@@ -32,7 +32,6 @@
 + util/math
 + util/middleware
 + util/runutil
-+ util/services
 + util/spanlogger
 + util/tls
 - /*
