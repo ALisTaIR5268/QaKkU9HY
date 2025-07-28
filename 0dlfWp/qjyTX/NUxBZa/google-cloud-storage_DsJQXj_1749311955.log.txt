@@ -10,7 +10,6 @@
 - ingester/*
 + prom1
 + prom1/storage/metric
-- prom1/*
 + querier/*.go
 + querier/astmapper
 + querier/batch
