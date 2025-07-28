@@ -186,7 +186,6 @@ Component Structure
 - Suggest micro folder structure for components.
 - Use composition to build complex components.
 - Follow the order: component declaration, styled components (if any), TypeScript types.
-
 Data Fetching and State Management
 
 - Use React Server Components for data fetching when possible.
