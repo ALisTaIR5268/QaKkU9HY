@@ -31,7 +31,6 @@
 - storage/*
 + storegateway
 + util/concurrency
-+ util/flagext
 + util/grpcclient
 + util/grpcutil
 + util/httpgrpcutil
