@@ -152,7 +152,6 @@ React/Next.js
 - Optimize images: WebP format, size data, lazy loading.
 - Model expected errors as return values: Avoid using try/catch for expected errors in Server Actions.
 - Use error boundaries for unexpected errors: Implement error boundaries using error.tsx and global-error.tsx files.
-- Use useActionState with react-hook-form for form validation.
 - Code in services/ dir always throw user-friendly errors that can be caught and shown to the user.
 - Use next-safe-action for all server actions.
 - Implement type-safe server actions with proper validation.
