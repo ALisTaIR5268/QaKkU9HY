@@ -20,7 +20,6 @@
 + querier.test
 + ring/client
 + ring/util
-+ storage
 + storage/bucket
 + storage/tsdb
 - storage/*
