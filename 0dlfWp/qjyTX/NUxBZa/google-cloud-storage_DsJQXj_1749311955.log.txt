@@ -24,7 +24,6 @@
 + querier/worker
 + querier.test
 + ring/client
-+ ring/shard
 + ring/util
 + storage
 + storage/bucket
