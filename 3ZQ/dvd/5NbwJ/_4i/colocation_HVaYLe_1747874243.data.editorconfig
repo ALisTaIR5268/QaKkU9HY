@@ -81,7 +81,6 @@ dotnet_diagnostic.IDE0021.severity = warning
 # Use expression body for methods
 dotnet_diagnostic.IDE0022.severity = silent
 # csharp_style_expression_bodied_methods
-
 dotnet_diagnostic.IDE0023.severity = warning
 # Use expression body for operators
 dotnet_diagnostic.IDE0024.severity = warning
