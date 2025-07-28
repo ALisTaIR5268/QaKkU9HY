@@ -1,4 +1,3 @@
-+ chunk
 + chunk/*.go
 + chunk/encoding
 + chunk/purger
