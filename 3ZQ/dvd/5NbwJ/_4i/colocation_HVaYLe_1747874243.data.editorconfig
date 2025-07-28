@@ -58,7 +58,6 @@ csharp_prefer_braces = false:warning
 dotnet_diagnostic.IDE0016.severity = warning
 # csharp_style_throw_expression
 
-# Use object initializers
 # dotnet_style_object_initializer
 dotnet_diagnostic.IDE0017.severity = warning
 
