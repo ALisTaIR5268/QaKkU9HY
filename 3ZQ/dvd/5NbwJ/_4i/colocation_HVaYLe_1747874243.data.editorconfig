@@ -492,7 +492,6 @@ csharp_preserve_single_line_statements = true
 # Wrapping
 csharp_continuous_indent_multiplier = 1
 csharp_alignment_tab_fill_style = use_tabs_only
-csharp_allow_far_alignment = false
 csharp_wrap_after_invocation_lpar = true
 place_linq_into_on_new_line = false
 wrap_after_dot_in_method_calls = true
