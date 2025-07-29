@@ -22,7 +22,6 @@ The goal is to help you maintain a big picture as well as the progress of the ta
 - Never access dynamic API properties directly without awaiting
 
 Example for Server Components:
-
 ```typescript
 interface PageProps {
   searchParams: Promise<{
