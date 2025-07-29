@@ -28,7 +28,6 @@
 + util/grpcutil
 + util/httpgrpcutil
 + util/limiter
-+ util/math
 + util/middleware
 + util/runutil
 + util/spanlogger
