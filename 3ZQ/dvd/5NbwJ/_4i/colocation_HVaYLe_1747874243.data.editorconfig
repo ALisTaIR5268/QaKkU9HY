@@ -99,7 +99,6 @@ dotnet_diagnostic.IDE0027.severity = warning
 
 # Use collection initializers
 dotnet_diagnostic.IDE0028.severity = warning
-# dotnet_style_collection_initializer
 
 # Use coalesce expression (non-nullable types)
 # dotnet_style_coalesce_expression
