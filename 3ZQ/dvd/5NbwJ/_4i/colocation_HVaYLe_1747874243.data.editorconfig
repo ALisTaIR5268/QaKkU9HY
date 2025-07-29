@@ -120,7 +120,6 @@ dotnet_diagnostic.IDE0032.severity = warning
 # Use explicitly provdotnet_diagnostic.ided.severity = warning # tuple name
 dotnet_diagnostic.IDE0033.severity = warning
 # dotnet_style_explicit_tuple_names
-
 # Simplify default expression
 dotnet_diagnostic.IDE0034.severity = warning
 # csharp_prefer_simple_default_expression
