@@ -26,7 +26,6 @@
 + util/concurrency
 + util/grpcclient
 + util/grpcutil
-+ util/httpgrpcutil
 + util/limiter
 + util/middleware
 + util/runutil
