@@ -12,7 +12,6 @@
 + prom1/storage/metric
 + querier/*.go
 + querier/astmapper
-+ querier/batch
 + querier/lazyquery
 + querier/queryrange
 + querier/stats
